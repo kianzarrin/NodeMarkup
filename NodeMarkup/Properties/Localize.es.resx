@@ -381,9 +381,13 @@ Mantenga Alt para crear un relleno</value>
   </data>
   <data name="Mod_WhatsNewCaption" xml:space="preserve">
     <value>Novedades de {0}</value>
+    <comment>Mod_WhatsNewCaption
+</comment>
   </data>
   <data name="Settings_ShowWhatsNew" xml:space="preserve">
     <value>Mostrar las novedades</value>
+    <comment>Settings_ShowWhatsNew
+</comment>
   </data>
   
   <data name="Settings_Import" xml:space="preserve">
@@ -411,7 +415,9 @@ Mantenga Alt para crear un relleno</value>
     <value>Doble Combinada</value>
   </data>
   <data name="LineStyle_Stop" xml:space="preserve">
-    <value>Línea transversal</value>
+    <value>Continua</value>
+    <comment>LineStyle_Stop
+</comment>
   </data>
   <data name="LineStyle_StopShort" xml:space="preserve">
     <value>LT</value>
@@ -444,7 +450,9 @@ Mantenga Alt para crear un relleno</value>
     <value>C</value>
   </data>
   <data name="LineStyle_StopDashed" xml:space="preserve">
-    <value>Línea transversal discontinua</value>
+    <value>Discontinua</value>
+    <comment>LineStyle_StopDashed
+</comment>
   </data>
   <data name="Filler_Step" xml:space="preserve">
     <value>Grado</value>
@@ -504,10 +512,14 @@ Mantenga Alt para crear un relleno</value>
   </data>
   
   <data name="LineStyle_StopDouble" xml:space="preserve">
-    <value>Línea transversal continua doble</value>
+    <value>Continua doble</value>
+    <comment>LineStyle_StopDouble
+</comment>
   </data>
   <data name="LineStyle_StopDoubleDashed" xml:space="preserve">
-    <value>Línea transversal discontinua doble</value>
+    <value>Discontinua Doble</value>
+    <comment>LineStyle_StopDoubleDashed
+</comment>
   </data>
   <data name="LineStyle_StopDoubleShort" xml:space="preserve">
     <value>LTCD</value>

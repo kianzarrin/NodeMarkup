@@ -773,12 +773,19 @@ Zum Erstellen eines Zebrastreifens zwei Punkte miteinander verbinden.</value>
   <data name="CrosswalkEditor_InfoSelectRightBorder" xml:space="preserve">
     <value>Wähle den rechten Rand des Zebrastreifens</value>
   </data>
-  
+  <data name="Settings_GroupPoints" xml:space="preserve">
+    <value>Punkte-Gruppen Einblendung</value>
+    <comment>Settings_GroupPoints
+</comment>
+  </data>
   <data name="Settings_GroupPointsArrangeCircle" xml:space="preserve">
     <value>Im Kreis anordnen</value>
   </data>
   <data name="Settings_GroupPointsArrangeLine" xml:space="preserve">
     <value>In einer Linie anordnen</value>
   </data>
-  
+  <data name="LineEditor_RuleOverlappedWarning" xml:space="preserve">
+    <value>Diese Regel wird von einer anderen Regel überlagert.
+Überprüfe die "Von" und "Zu" Punkte der anderen Regeln.</value>
+  </data>
 </root>

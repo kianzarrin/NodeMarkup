@@ -380,10 +380,14 @@ create or delete a line
 Hold Alt to create a filler</value>
   </data>
   <data name="Mod_WhatsNewCaption" xml:space="preserve">
-    <value>What`s new in {0}</value>
+    <value>What's new in {0}</value>
+    <comment>Mod_WhatsNewCaption
+</comment>
   </data>
   <data name="Settings_ShowWhatsNew" xml:space="preserve">
-    <value>Show what`s new</value>
+    <value>Show what's new</value>
+    <comment>Settings_ShowWhatsNew
+</comment>
   </data>
   <data name="Mod_WhatsNewMessage1_2" xml:space="preserve">
     <value>- Fillers. Space between lines can be filled in to indicate the areas prohibited for stopping or driving. 3 styles are available: Lines, Grid and Solid Fill. To create hold Alt.
@@ -421,7 +425,9 @@ Hold Alt to create a filler</value>
     <value>Solid and Dashed</value>
   </data>
   <data name="LineStyle_Stop" xml:space="preserve">
-    <value>Stop line</value>
+    <value>Solid</value>
+    <comment>LineStyle_Stop
+</comment>
   </data>
   <data name="LineStyle_StopShort" xml:space="preserve">
     <value>SL</value>
@@ -454,7 +460,9 @@ Hold Alt to create a filler</value>
     <value>G</value>
   </data>
   <data name="LineStyle_StopDashed" xml:space="preserve">
-    <value>Dashed stop line</value>
+    <value>Dashed</value>
+    <comment>LineStyle_StopDashed
+</comment>
   </data>
   <data name="Filler_Step" xml:space="preserve">
     <value>Step</value>
@@ -531,10 +539,14 @@ Hold Alt to create a filler</value>
     <value>Test</value>
   </data>
   <data name="LineStyle_StopDouble" xml:space="preserve">
-    <value>Double stop line</value>
+    <value>Double solid</value>
+    <comment>LineStyle_StopDouble
+</comment>
   </data>
   <data name="LineStyle_StopDoubleDashed" xml:space="preserve">
-    <value>Double dashed stop line</value>
+    <value>Double dashed</value>
+    <comment>LineStyle_StopDoubleDashed
+</comment>
   </data>
   <data name="LineStyle_StopDoubleShort" xml:space="preserve">
     <value>DSS</value>

@@ -381,9 +381,13 @@ Prima Alt para criar um preenchimento</value>
   </data>
   <data name="Mod_WhatsNewCaption" xml:space="preserve">
     <value>O que há de novo em {0}</value>
+    <comment>Mod_WhatsNewCaption
+</comment>
   </data>
   <data name="Settings_ShowWhatsNew" xml:space="preserve">
     <value>Mostrar as novidades</value>
+    <comment>Settings_ShowWhatsNew
+</comment>
   </data>
   <data name="Mod_WhatsNewMessage1_2" xml:space="preserve">
     <value>- Adicionado Preenchimentos. O espaço entre as linhas pode ser preenchido para indicar áreas de proibição de paragem ou condução. 3 estilos disponíveis: "Linhas", "Grelha" e "Sólido". Para criar um preenchimento pressione Alt.
@@ -421,7 +425,9 @@ Prima Alt para criar um preenchimento</value>
     <value>Dupla Combinada</value>
   </data>
   <data name="LineStyle_Stop" xml:space="preserve">
-    <value>Linha de paragem</value>
+    <value>Sólida</value>
+    <comment>LineStyle_Stop
+</comment>
   </data>
   <data name="LineStyle_StopShort" xml:space="preserve">
     <value>LP</value>
@@ -454,7 +460,9 @@ Prima Alt para criar um preenchimento</value>
     <value>G</value>
   </data>
   <data name="LineStyle_StopDashed" xml:space="preserve">
-    <value>Linha de paragem tracejada</value>
+    <value>Tracejada</value>
+    <comment>LineStyle_StopDashed
+</comment>
   </data>
   <data name="Filler_Step" xml:space="preserve">
     <value>Intervalo</value>
@@ -516,10 +524,14 @@ Prima Alt para criar um preenchimento</value>
     <value>Teste</value>
   </data>
   <data name="LineStyle_StopDouble" xml:space="preserve">
-    <value>Linha de Paragem Dupla</value>
+    <value>Sólida dupla</value>
+    <comment>LineStyle_StopDouble
+</comment>
   </data>
   <data name="LineStyle_StopDoubleDashed" xml:space="preserve">
-    <value>Linha de Paragem Dupla Tracejada</value>
+    <value>Tracejada dupla</value>
+    <comment>LineStyle_StopDoubleDashed
+</comment>
   </data>
   <data name="LineStyle_StopDoubleShort" xml:space="preserve">
     <value>PDS</value>
